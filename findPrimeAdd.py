@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def findprimes(n) : #statement finding primes
     primes = [] #set primes to empty list
     for i in range(2, n+1): #looping for start from 2 until input + 1
